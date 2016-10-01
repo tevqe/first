@@ -1,2 +1,2 @@
 # first
-First repository on github testing python
+First repository on github, testing python
